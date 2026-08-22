@@ -44,14 +44,24 @@ The project also explores how environmental factors such as temperature and humi
 ## Team
 
 - Retaj Aljarwan
-- Shahed
+- Shahed Yousef
+
+## Project Structure
+
+- `sunsense_system_eng207_project.py` – Main Python program.
+- `SunSense_System_ENG207_Project.ipynb` – Google Colab notebook used to run and test the project.
+- `data.csv` – Solar monitoring data used by the program.
+- `.gitignore` – Specifies files that should not be tracked by Git.
+- `README.md` – Documentation and information about the project.
+
 
 ## How to Run
 
-1. Download or clone this repository.
-2. Open `sunsense_system_eng207_project.py`.
-3. Run the program using Python 3.
-4. Follow the options displayed in the main menu.
+1. Open the Python file or Google Colab notebook.
+2. Run the program.
+3. Choose an option from the menu.
+4. Generate or load solar monitoring data.
+5. Analyze the readings and compare different scenarios.
 
 ## Project Goal
 
