@@ -49,11 +49,12 @@ The project also explores how environmental factors such as temperature and humi
 ## Project Structure
 
 - `sunsense_system_eng207_project.py` – Main Python program.
-- `SunSense_System_ENG207_Project.ipynb` – Google Colab notebook used to run and test the project.
+- `SunSense_System_ENG207_Project.ipynb` – Google Colab/Jupyter Notebook version of the project.
 - `data.csv` – Solar monitoring data used by the program.
+- - `SunSense RS_ENG207_Project_Report.pdf` – Project report documenting the system design, functions, implementation, results, and conclusion.
+- `SunSense RS_ENG207_Project_Presentation.pdf` – Project presentation.
 - `.gitignore` – Specifies files that should not be tracked by Git.
 - `README.md` – Documentation and information about the project.
-
 
 ## How to Run
 
